@@ -1,5 +1,4 @@
 # Hello-World
-My first repository
 
 Sumainyo ang kapayapaan,
 
